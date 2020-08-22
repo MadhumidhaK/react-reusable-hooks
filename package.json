@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "repository": {
-    "url": "https://github.com/MadhumidhaK/react-reusable-hooks.git"
+    "url": ""
   },
   "dependencies": {
     "react": "16.12.0",
@@ -16,6 +16,7 @@
     "gh-pages": "^3.1.0",
     "typescript": "3.8.3"
   },
+  "homepage" : "https://madhumidhak.github.io/react-reusable-hooks",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
